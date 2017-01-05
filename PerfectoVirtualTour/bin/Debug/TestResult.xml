@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.461318">
+  <command-line><![CDATA[nunit3-console.exe  PerfectoVirtualTour.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1003" name="PerfectoVirtualTour.dll" fullname="C:\ProjectsVS\DemoScenariosVS\PerfectoVirtualTour\bin\Debug\PerfectoVirtualTour.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.374054" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.5.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\ProjectsVS\DemoScenariosVS\PerfectoVirtualTour\bin\Debug" machine-name="W7ENTVM64" user="VMDEMO" user-domain="W7ENTVM64" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\ProjectsVS\DemoScenariosVS\PerfectoVirtualTour\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.0" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="2" />
+    </settings>
+    <properties>
+      <property name="_PID" value="3520" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1004" name="PerfectoVirtualTour" fullname="PerfectoVirtualTour" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.328663" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="0-1000" name="RemoteWebDriverTest(&quot;Android&quot;,&quot;6.0.1&quot;,&quot;Galaxy S6&quot;,&quot;0615F6F16FB13932&quot;,&quot;Dzuy&quot;)" fullname="PerfectoVirtualTour.RemoteWebDriverTest(&quot;Android&quot;,&quot;6.0.1&quot;,&quot;Galaxy S6&quot;,&quot;0615F6F16FB13932&quot;,&quot;Dzuy&quot;)" classname="PerfectoVirtualTour.RemoteWebDriverTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.281214" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties>
+          <property name="ParallelScope" value="Fixtures" />
+        </properties>
+        <test-suite type="ParameterizedMethod" id="0-1002" name="PerfectoVirtualTour_LoginTest" fullname="PerfectoVirtualTour.RemoteWebDriverTest.PerfectoVirtualTour_LoginTest" classname="PerfectoVirtualTour.RemoteWebDriverTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.256053" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <test-case id="0-1001" name="PerfectoVirtualTour_LoginTest()" fullname="PerfectoVirtualTour.RemoteWebDriverTest(&quot;Android&quot;,&quot;6.0.1&quot;,&quot;Galaxy S6&quot;,&quot;0615F6F16FB13932&quot;,&quot;Dzuy&quot;).PerfectoVirtualTour_LoginTest()" methodname="PerfectoVirtualTour_LoginTest" classname="PerfectoVirtualTour.RemoteWebDriverTest" runstate="Runnable" seed="89019696" result="Passed" start-time="2017-01-03 23:18:54Z" end-time="2017-01-03 23:20:19Z" duration="84.217302" asserts="0">
+            <output><![CDATA[WOW:demo.perfectomobile.com
+Android 6.0.1 Galaxy S6 0615F6F16FB13932 Dzuy
+dzuyt@perfectomobile.com_VS_PerfectoVirtualTour_GalaxyS6_v6.0.1_17-01-03_23_18_52_13607
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

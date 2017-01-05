@@ -1,0 +1,12 @@
+{
+  "cqlSettings": [
+    {
+      "cqlSetting": {
+        "perfectoCloud": "demo.perfectomobile.com",
+        "perfectoUsername": "YourEmail@perfectomobile.com",
+        "perfectoPassword": "YourPassword",
+        "windTunnelIsOn":  "true"
+      }
+    }
+  ]
+}

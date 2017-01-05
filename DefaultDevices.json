@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "device": {
+        "id": "0615F6F16FB13932",
+        "os": "Android",
+        "version": "6.0.1",
+        "model": "Galaxy S6",
+        "description": "Dzuy"
+      }
+    },
+    {
+        "device": {
+          "id": "71EDDAE8C07850B0A910F2CF9E69A93095B996DA",
+          "os": "iOS",
+          "version": "9.3.5",
+          "model": "iPhone-6",
+          "description": "Dzuy"
+        }
+    }
+  ]
+}
